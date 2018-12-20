@@ -57,3 +57,5 @@ function findLowest(array){
     return array[lowest]
 }
 
+module.exports = friends;
+module.exports = compatabilityCheck();
